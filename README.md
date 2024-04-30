@@ -25,5 +25,6 @@ Nuestro proyecto consiste en una pagina web que sirve para encontrar eventos y a
 2- Proporcionar información de diferentes eventos musicales para brindarles exposure 
 3- Ayudar a los artistas emergentes a que su audiencia crezca 
 
-
-
+# TABLA
+[
+](https://docs.google.com/document/d/15V1fPr7S2nQyGQwn1Ock310i4t7wNHdsD8Y55bKYV00/edit)
